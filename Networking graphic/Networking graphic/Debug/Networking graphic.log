@@ -1,0 +1,3 @@
+﻿  Networking graphic.cpp
+D:\SibSUTIS\2 курс\АСУ\Автоматизированные системы управления - практические\Networking graphic\Networking graphic\Networking graphic.cpp(26,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Networking graphic.vcxproj -> D:\SibSUTIS\2 курс\АСУ\Автоматизированные системы управления - практические\Networking graphic\Debug\Networking graphic.exe

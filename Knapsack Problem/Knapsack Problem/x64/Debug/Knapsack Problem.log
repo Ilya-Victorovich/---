@@ -1,0 +1,3 @@
+﻿  Knapsack Problem.cpp
+D:\SibSUTIS\2 курс\АСУ\Автоматизированные системы управления - практические\Knapsack Problem\Knapsack Problem\Knapsack Problem.cpp(31,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Knapsack Problem.vcxproj -> D:\SibSUTIS\2 курс\АСУ\Автоматизированные системы управления - практические\Knapsack Problem\x64\Debug\Knapsack Problem.exe
